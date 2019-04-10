@@ -1,4 +1,4 @@
-package com.controller;
+package com.python.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
